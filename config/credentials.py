@@ -1,0 +1,3 @@
+EARTHDATA_USERNAME = "jessicahusby"
+EARTHDATA_PASSWORD = "Husby_Master2026"
+GEE_PROJECT = "master26-492809"
